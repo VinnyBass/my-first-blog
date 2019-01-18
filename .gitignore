@@ -5,4 +5,4 @@ django
 db.sqlite3
 /static
 .DS_Stores
-settings.py
+mysite/settings.py
